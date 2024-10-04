@@ -1,0 +1,13 @@
+
+=
+src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
+g
+7src/imperativevsdecalrative/ImprativeVsDeclarative.java,6/7/67ce38aa3527e78a49e67e854ae3891035e12ddb
+h
+8src/imperativevsdecalrative/ImperativeVsDeclarative.java,e/d/ed6d02b3213b3bde4ef802301190fb9e4b155476
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+p
+@src/imperativevsdecalrative/ImperativeVsDeclarativeExample1.java,8/f/8f08a7aaedd8289c4ce151df5a9e27bf2ba5e9ce
+p
+@src/imperativevsdecalrative/ImperativeVsDeclarativeExample2.java,c/5/c54980d10a711b7ad67589292fb9ce50e0934956

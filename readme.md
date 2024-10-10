@@ -31,7 +31,6 @@ Lambda expression
 (input params) ->  {method body}
 
 The main purpose of Lamba is the implementation of functional Interfaces.
-
 If an interface has only one abstract method it is categorized as a functional
 Interface.
 
@@ -41,4 +40,8 @@ that were introduced in Java 1.8
 
 A Thread takes in a RunnableInterface.
 Lambdas simplify greatly how we work with threads
+
+N/B
+Using Lambdas we run Methods inside functional Interfaces, Anonymostly
+Which leads to cleaner code
 ```

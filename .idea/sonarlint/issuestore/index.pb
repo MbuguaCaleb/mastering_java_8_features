@@ -9,3 +9,5 @@ p
 @src/imperativevsdecalrative/ImperativeVsDeclarativeExample2.java,c/5/c54980d10a711b7ad67589292fb9ce50e0934956
 V
 &src/lambdas/RunnableLambdaExample.java,0/d/0d6cf46c3e7c4f8ae979b3d901d6a5f86dac7827
+X
+(src/lambdas/ComparatorLambdaExample.java,6/4/64296542f27144d6c33c7e92bb6182ad3abb17c3

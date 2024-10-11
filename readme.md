@@ -74,7 +74,12 @@ Remember Any of these Functional Interfaces can easily be implemanted via lambda
 
 ```
 
+**BiConsumer**
 
+```
+An extension of the consumer and it acceps 2 inputs,
+
+```
 **Notes By**
 
 ```

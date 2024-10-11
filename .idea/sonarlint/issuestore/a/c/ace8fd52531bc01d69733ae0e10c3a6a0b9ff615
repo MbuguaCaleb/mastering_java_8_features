@@ -1,10 +1,10 @@
 
 ˆ
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(ğÅ­šşÿÿÿÿ8ë¯ªÕ§2J$2804cda3-3544-445b-94ab-bc8cf72ba703
-r	java:S106"+Replace this use of System.out by a logger.(ğÅ­šşÿÿÿÿ8ë¯ªÕ§2J$e18e91f7-1b79-4d1d-bfe3-31da9c2c2bd9
-m	java:S106"+Replace this use of System.out by a logger.(‘†˜8ì¯ªÕ§2J$17311c12-01c5-46aa-bc2a-a9315af45d71
-l	java:S106"+Replace this use of System.out by a logger.(²œX8ì¯ªÕ§2J$e6bf2501-b5f6-467d-a42e-7445e949a22d
-l	java:S106"+Replace this use of System.out by a logger.(©®8î¯ªÕ§2J$eab23c28-cf02-4126-a8ad-76394dba92b1
-~	java:S125%"<This block of commented-out lines of code should be removed.(¨¹şÇ8í¯ªÕ§2J$9cc37f27-cac9-4a48-aa11-de215ac77477
-r	java:S106-"+Replace this use of System.out by a logger.(ş©Öèıÿÿÿÿ8ÊãÇÕ§2J$2aa0813b-3f8b-4b1f-b0fe-d862fb7bbe4a
-m	java:S106?"+Replace this use of System.out by a logger.(ÙŸ§é8§ìÈÕ§2J$ad5e5a40-ce44-481a-9583-3023bf1302ed
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ğÅ­šşÿÿÿÿ8‰­Ö§2J$1f9c3de1-f346-40a8-98d2-e95ab083cf17
+r	java:S106"+Replace this use of System.out by a logger.(ğÅ­šşÿÿÿÿ8Ø»Ö§2J$618782b4-5416-45cb-9206-8de9c66f92e8
+m	java:S106"+Replace this use of System.out by a logger.(‘†˜8Ù»Ö§2J$088aec89-ba4b-4daa-884d-b2c9255edea2
+l	java:S106"+Replace this use of System.out by a logger.(²œX8Ú»Ö§2J$cf388fa1-2592-4016-8555-93604ffd58a9
+l	java:S106"+Replace this use of System.out by a logger.(©®8Œ­Ö§2J$a8f953fe-2890-4e05-8129-87e31209a2de
+~	java:S125'"<This block of commented-out lines of code should be removed.(¨¹şÇ8Ù»Ö§2J$71276752-dd46-4e14-8af3-5a1e725fb14e
+r	java:S106/"+Replace this use of System.out by a logger.(ş©Öèıÿÿÿÿ8­Ö§2J$f1bed06c-5034-482a-9ee5-87705f58333a
+m	java:S106A"+Replace this use of System.out by a logger.(ÙŸ§é8­Ö§2J$7deb4fea-3ce1-4aa4-8bc3-10a3859eba59

@@ -17,3 +17,5 @@ E
 src/data/Student.java,2/c/2c60004b2dd824cc06f5b5256d56dcc831a3c4c0
 M
 src/data/StudentDataBase.java,1/9/193aa7ed5a8538f56e0290ae88cbbf931471584b
+_
+/src/functionalInterfaces/BiConsumerExample.java,1/f/1fc6165be8a48cd11ae51ff81886d42f702c5903

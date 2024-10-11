@@ -9,7 +9,10 @@ import java.util.function.Consumer;
 
 public class ConsumerExample {
 
-    // I Command a consumer to give me what i want & i can chain consumers
+    /**When I use functional interfaces, I can write my code declaratively
+     Command a consumer to give me what I want & I can chain consumers
+     A consumer and bi-consumer does not have a return value.
+     They just do the Operations Commanded*/
 
     static Consumer<Student> c2 = student -> System.out.println(student);
     static Consumer<Student> studentName = student -> System.out.print(student.getName());
@@ -31,8 +34,7 @@ public class ConsumerExample {
         studentList.forEach(studentName.andThen(studentActivities)); // consumer chaining
 
         /**When i want to do two separate things for a consumer in an Object,i can create two separate consumers and chain the Output
-         so things
-         /*previous way (imperatively**/
+         so thing previous way (imperatively**/
         /*
         studentList.forEach(student->{
             System.out.println(student.getName());
@@ -45,7 +47,7 @@ public class ConsumerExample {
         System.out.println("printNameAndActivitiesUsingCondition()");
         List<Student> studentList = StudentDataBase.getAllStudents();
         studentList.forEach(student -> {
-            if (student.getGradeLevel() >= 3 && student.getGpa() >=3.9) {
+            if (student.getGradeLevel() >= 3 && student.getGpa() >= 3.9) {
                 //code reusability
                 //i am reusing the consumer for printing the name and printing the activities
                 //Here i am creating a consumer inside my forLoop therefore i must use accept

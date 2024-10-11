@@ -1,0 +1,12 @@
+
+΅
+java:S1192"YDefine a constant instead of duplicating this literal "Result of Comparator is:" 3 times.(Ρ›έπώÿÿÿÿ8•ε­§2J$85c65ce6-3b75-40fa-a92d-94f85ea150fa
+k
+java:S1604"(Make this anonymous inner class a lambda(Ϋ•σω8“φ†­§2J$8197ef33-3b7d-4df8-8a4a-af5e2818145b
+r	java:S106"+Replace this use of System.out by a logger.(Ρ›έπώÿÿÿÿ8›φ†­§2J$8f1e1f40-eca1-46f4-8b5b-84e697b43bbc
+…
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(–οπ³8Ωχ­§2J$be9549da-4c07-4866-babe-e33cf1454f95
+r	java:S106"+Replace this use of System.out by a logger.(ό—ΰώÿÿÿÿ8’±‡­§2J$80e2105f-8a52-4956-8f0b-4c98124378a4
+d
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(ΗΎ΄ώÿÿÿÿ8®ϋ–­§2
+m	java:S106 "+Replace this use of System.out by a logger.(μµ®8ε­§2J$8285cbbe-8e16-47b6-bd58-92b8ba043c14

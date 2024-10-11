@@ -45,3 +45,39 @@ N/B
 Using Lambdas we run Methods inside functional Interfaces, Anonymostly
 Which leads to cleaner code
 ```
+
+**Functional Interfaces**
+
+
+```
+Any  interface that has exactly one abstract method (SAMS)
+is called a functional interface
+
+@FunctionalInterface is the annotation that is used on Top of all the
+functional interfaces
+
+It is importnat for functional interfaces to have the @FunctionalInterface annotation
+so that they do not break the rules of the Contat, Single Abstract Method.
+
+previous functional Interfaces were:
+
+(a)Runnable
+(b)Comparator.
+
+New functional Interfaces introduced in Java 8 are:
+
+(a)Consumer - BiConsumer
+(b)Predicate - BiPredicate
+(c)Function - BiFunction,UnaryOperator,BinaryOperator
+
+Remember Any of these Functional Interfaces can easily be implemanted via lambda functions.
+
+```
+
+
+**Notes By**
+
+```
+MbuguaCaleb
+
+```

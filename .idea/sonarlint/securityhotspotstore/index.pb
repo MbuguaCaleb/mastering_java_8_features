@@ -19,3 +19,7 @@ M
 src/data/StudentDataBase.java,1/9/193aa7ed5a8538f56e0290ae88cbbf931471584b
 _
 /src/functionalInterfaces/BiConsumerExample.java,1/f/1fc6165be8a48cd11ae51ff81886d42f702c5903
+^
+.src/functionalInterfaces/PredicateExample.java,6/7/679d213cb64e4249133e9d6d724d90108dc3e664
+e
+5src/functionalInterfaces/PredicateStudentExample.java,b/0/b03f7aae66b1a951482383ce6a21832788760413

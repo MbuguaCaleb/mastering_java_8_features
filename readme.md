@@ -78,6 +78,15 @@ Remember Any of these Functional Interfaces can easily be implemanted via lambda
 An extension of the consumer and it acceps 2 inputs,
 
 ```
+
+**Functional & BiFunction Interface**
+
+```
+Where we can code an entire functionality in Java and assign that functionality to a variable.
+and pass it across as any other object in Java
+
+Bifunction accepts Two Inputs and return One OutPut.
+```
 **Notes By**
 
 ```

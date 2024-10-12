@@ -23,3 +23,5 @@ _
 .src/functionalInterfaces/PredicateExample.java,6/7/679d213cb64e4249133e9d6d724d90108dc3e664
 e
 5src/functionalInterfaces/PredicateStudentExample.java,b/0/b03f7aae66b1a951482383ce6a21832788760413
+i
+9src/functionalInterfaces/PredicateAndConsumerExample.java,3/f/3f6e1b7d6bbd206f63c3864df6dd1715b2121eff

@@ -1,11 +1,11 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(¤¿¡…8Ê„ÚÖ§2J$b34fa6da-d6ce-4972-9383-fded09935296
+m	java:S106"+Replace this use of System.out by a logger.(¤¿¡…8Ê„ÚÖ§2J$43a1ae67-fb62-4317-bffd-b68a24880dfa
 o
-java:S1602",Remove useless curly braces around statement(¾èº¤8Ë„ÚÖ§2J$71c35c21-0f28-4cf9-ba63-687af7e39c83
-r	java:S106"+Replace this use of System.out by a logger.(«§£æøÿÿÿÿ8Ë„ÚÖ§2J$3887aeaf-11bd-4284-a9f7-ba741f43a11d
+java:S1602",Remove useless curly braces around statement(¾èº¤8Ë„ÚÖ§2J$a085b07d-f938-40f2-a0a6-ce39b7eaf2a7
+r	java:S106"+Replace this use of System.out by a logger.(«§£æøÿÿÿÿ8Ë„ÚÖ§2J$df1f0f9b-bfe5-40f9-83aa-355a15aaa364
 o
-java:S1602",Remove useless curly braces around statement(­¹Ü8Ë„ÚÖ§2J$d09e791f-c022-48a2-b461-42e63718766c
-r	java:S106"+Replace this use of System.out by a logger.(Åæñøÿÿÿÿ8Ë„ÚÖ§2J$1b10a166-5160-4154-9a3f-ea90e25ad66b
+java:S1602",Remove useless curly braces around statement(­¹Ü8Ë„ÚÖ§2J$3a0d8061-0f34-4a11-9931-eb7159a4e752
+r	java:S106"+Replace this use of System.out by a logger.(Åæñøÿÿÿÿ8Ë„ÚÖ§2J$f24af41d-9af6-4ea3-b966-bc91c1a1f4ef
 o
-java:S1602",Remove useless curly braces around statement(®ó½Ö8Ì„ÚÖ§2J$8234268a-3636-4477-8289-a95762c59741
-r	java:S106"+Replace this use of System.out by a logger.(Í¦Ãºşÿÿÿÿ8Ì„ÚÖ§2J$9aa8c7c7-b6e2-4293-b494-315d9edbc811
+java:S1602",Remove useless curly braces around statement(®ó½Ö8Ì„ÚÖ§2J$8e662e73-ff99-4bf1-81c3-0090ba93b88c
+r	java:S106"+Replace this use of System.out by a logger.(Í¦Ãºşÿÿÿÿ8Ì„ÚÖ§2J$fd2e3713-cb41-4cd9-a24c-8941fa438fa4

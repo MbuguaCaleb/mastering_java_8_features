@@ -1,5 +1,4 @@
 package functionalInterfaces;
-
 import data.Student;
 import data.StudentDataBase;
 

@@ -47,8 +47,6 @@ Which leads to cleaner code
 ```
 
 **Functional Interfaces**
-
-
 ```
 Any  interface that has exactly one abstract method (SAMS)
 is called a functional interface

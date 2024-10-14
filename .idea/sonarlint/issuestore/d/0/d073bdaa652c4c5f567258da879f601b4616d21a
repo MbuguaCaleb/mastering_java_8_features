@@ -1,0 +1,12 @@
+
+Š
+java:S1612	"BReplace this lambda with method reference 'Comparable::compareTo'.(Ò•˜Æûÿÿÿÿ8ë×£ã¨2J$8b2fb367-8080-4fdf-95b2-60d93840be9d
+š
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(Ç¥˜Á8í×£ã¨2J$efbfc1df-ad49-4de9-afb7-5f6a88a83d3d
+m	java:S106"+Replace this use of System.out by a logger.(ÔôÂ®8í×£ã¨2J$8d15d874-14ac-4299-b269-74ff74e4fcb9
+Ÿ
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'( Àİ”øÿÿÿÿ8î×£ã¨2J$4ec956a8-3f56-4c47-80cb-f66648099ef7
+m	java:S106"+Replace this use of System.out by a logger.(éîû¦8î×£ã¨2J$c39322af-3af7-4381-8c9a-30d24aa212c0
+Ÿ
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ªÒ±”øÿÿÿÿ8ù±ã¨2J$eb5b492d-1d0a-4c1e-abca-0ed6ee3f369b
+l	java:S106"+Replace this use of System.out by a logger.(¨À©C8ù±ã¨2J$ae6a06a4-5c8b-41f3-b1c2-b8476013899a

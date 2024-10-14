@@ -87,6 +87,18 @@ and pass it across as any other object in Java
 
 Bifunction accepts Two Inputs and return One OutPut.
 ```
+
+**Unary & Binary Operator**
+
+```
+It is an extension of the functional interface and is used in scenerios where the input and the output
+are of the same type.
+
+Binary Operator is the Opposite of Bifunction, where we take two inputs of the same type and return 
+an output of the same type.
+
+(If the Inputs and OutPuts are of the same Type, we use binary Operator for such cases.
+```
 **Notes By**
 
 ```

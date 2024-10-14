@@ -25,8 +25,6 @@ e
 5src/functionalInterfaces/PredicateStudentExample.java,b/0/b03f7aae66b1a951482383ce6a21832788760413
 i
 9src/functionalInterfaces/PredicateAndConsumerExample.java,3/f/3f6e1b7d6bbd206f63c3864df6dd1715b2121eff
-`
-0src/functionalInterfaces/BiPredicateExample.java,0/1/01efd8bbe473f50f6b42524683b5e84f0bd990d5
 ]
 -src/functionalInterfaces/FunctionExample.java,4/b/4b992013f10a05c7d104ef1eb6bf2669e099f3b8
 `
@@ -35,3 +33,7 @@ d
 4src/functionalInterfaces/FunctionStudentExample.java,f/c/fc9ffb370ce89836d52e462183ed9bcebdf7a50a
 _
 /src/functionalInterfaces/BiFunctionExample.java,e/1/e111021142eaac250c25314b1357a95cccbe1991
+b
+2src/functionalInterfaces/UnaryOperatorExample.java,3/b/3b58b53bc5ae40e683720e02bfb889bf3f2adf87
+c
+3src/functionalInterfaces/BinaryOperatorExample.java,d/0/d073bdaa652c4c5f567258da879f601b4616d21a

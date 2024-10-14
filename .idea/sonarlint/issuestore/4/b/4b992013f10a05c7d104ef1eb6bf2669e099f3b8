@@ -1,12 +1,12 @@
 
 ‰
-java:S1192"FDefine a constant instead of duplicating this literal "java8" 3 times.(œìÓà8µîÚ¨2J$a5f8a5da-bf59-408e-bd5d-16b03e6c5e13
+java:S1192"FDefine a constant instead of duplicating this literal "java8" 3 times.(œìÓà8µîÚ¨2J$467aa1fc-b920-498c-b77c-de083fc460f8
 £
-java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¹¨Æ‚ûÿÿÿÿ8À³¹¨2J$87dc36ad-77bf-4d7c-a402-013a5543d599
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¹¨Æ‚ûÿÿÿÿ8À³¹¨2J$42f7d004-36cc-4b3f-8ee9-f09599b8f13f
 ˆ
-java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(¹¨Æ‚ûÿÿÿÿ8ºîÚ¨2J$565a350a-e185-41a6-b15e-dc0eb6d3a0e8
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(¹¨Æ‚ûÿÿÿÿ8ºîÚ¨2J$2944a4ce-bdad-4431-b929-ba05bbf07913
 £
-java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(êÙßèşÿÿÿÿ8ºîÚ¨2J$5f99d9c8-7a4a-4d41-bd26-0b582420a857
-m	java:S106"+Replace this use of System.out by a logger.(œìÓà8»îÚ¨2J$5ad9df25-1c06-4f22-8604-3f719c23ba8c
-m	java:S106"+Replace this use of System.out by a logger.(ÉŸæ“8»îÚ¨2J$1ac3e912-eaef-47dd-b5f2-f484c8e15fc4
-m	java:S106#"+Replace this use of System.out by a logger.(‹×ª³8»îÚ¨2J$d3995d16-4225-431c-b79e-312eb0788d46
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(êÙßèşÿÿÿÿ8ºîÚ¨2J$5a8e7bc3-a1fc-47a7-bf74-d1a3221726c3
+m	java:S106"+Replace this use of System.out by a logger.(œìÓà8»îÚ¨2J$fec15612-9056-4135-9e06-7a5c40da7fb9
+m	java:S106"+Replace this use of System.out by a logger.(ÉŸæ“8»îÚ¨2J$a5267472-f66c-4676-8d68-cfdde2d8d107
+m	java:S106#"+Replace this use of System.out by a logger.(‹×ª³8»îÚ¨2J$fde480bb-5246-48ae-8ee2-67159ce2c9e2

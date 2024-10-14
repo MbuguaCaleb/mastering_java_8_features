@@ -1,12 +1,12 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(í¸‡°ıÿÿÿÿ8 úèÿ§2J$02d6056d-4026-4841-8d5e-c3cf5d518772
-m	java:S106"+Replace this use of System.out by a logger.(„íí8¡úèÿ§2J$ccde02f0-ddde-4ae2-b1cc-1648cdf9f053
-m	java:S106!"+Replace this use of System.out by a logger.(çÚèÄ8¡úèÿ§2J$e4adb97b-2e27-4ac8-88e9-ed654be39929
-m	java:S106&"+Replace this use of System.out by a logger.(„íí8¡úèÿ§2J$2b149b98-b9d0-44f3-a842-e26b7c62268d
-r	java:S106,"+Replace this use of System.out by a logger.(€á¦ıÿÿÿÿ8¢úèÿ§2J$62cf7c8b-09fc-49b2-8c8a-f40d81c5f0cf
-m	java:S1061"+Replace this use of System.out by a logger.(„íí8¢úèÿ§2J$23c6cad1-fa7b-4dd2-af33-3998e6e7ef3c
-m	java:S106<"+Replace this use of System.out by a logger.( ÈÑ8¢úèÿ§2J$a99f1154-546a-4d21-b34e-1cb06324a15b
+r	java:S106"+Replace this use of System.out by a logger.(í¸‡°ıÿÿÿÿ8 úèÿ§2J$88bcadd8-8c08-4c11-9d41-4bd211d820cb
+m	java:S106"+Replace this use of System.out by a logger.(„íí8¡úèÿ§2J$1005282a-b781-469a-92c2-854105d35546
+m	java:S106!"+Replace this use of System.out by a logger.(çÚèÄ8¡úèÿ§2J$204f0c28-9c37-485b-88e1-e10659c48290
+m	java:S106&"+Replace this use of System.out by a logger.(„íí8¡úèÿ§2J$d4671c4b-88b1-40e8-83eb-4c58e3eb635d
+r	java:S106,"+Replace this use of System.out by a logger.(€á¦ıÿÿÿÿ8¢úèÿ§2J$3df9b95d-c567-4cb3-a2e7-c08273547ac2
+m	java:S1061"+Replace this use of System.out by a logger.(„íí8¢úèÿ§2J$2a5aa438-15ea-4720-9de5-a54e82abb3ed
+m	java:S106<"+Replace this use of System.out by a logger.( ÈÑ8¢úèÿ§2J$16341d4d-3064-4802-b3ec-b5ce44618304
 
-java:S3923@"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¸Ì³™8ı€íÿ§2J$9929831d-0884-42d0-9650-3ec9e15bad57
-m	java:S106A"+Replace this use of System.out by a logger.(„íí8£úèÿ§2J$193c92ee-469a-4b20-bd6c-f74611b93a1f
-m	java:S106C"+Replace this use of System.out by a logger.(„íí8ı€íÿ§2J$c43fbbe8-d7f5-43d3-96fc-f0c3bd842e58
+java:S3923@"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¸Ì³™8ı€íÿ§2J$b68ee92f-749d-4545-a86d-087afc2ab95d
+m	java:S106A"+Replace this use of System.out by a logger.(„íí8£úèÿ§2J$be863cc4-d8a5-49c4-ad98-4af35bededf5
+m	java:S106C"+Replace this use of System.out by a logger.(„íí8ı€íÿ§2J$ba9ba61e-2e0f-42cd-be53-b57f1025ab32

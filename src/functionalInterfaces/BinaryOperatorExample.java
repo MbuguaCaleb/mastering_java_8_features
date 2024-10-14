@@ -6,6 +6,7 @@ import java.util.function.BinaryOperator;
 public class BinaryOperatorExample {
 
     /**Extends the BiFunction*/
+    /**Used when we have the inputs and outputs being of the same type**/
     static Comparator<Integer> comparator = (a, b) -> a.compareTo(b);
 
     public static void main(String[] args) {

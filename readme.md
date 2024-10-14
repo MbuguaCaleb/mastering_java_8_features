@@ -67,6 +67,7 @@ New functional Interfaces introduced in Java 8 are:
 (a)Consumer - BiConsumer
 (b)Predicate - BiPredicate
 (c)Function - BiFunction,UnaryOperator,BinaryOperator
+(d)Supplier -->direcly Opposite from a consumer, it does not take any input but returns an outPut.
 
 Remember Any of these Functional Interfaces can easily be implemanted via lambda functions.
 

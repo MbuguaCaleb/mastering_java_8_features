@@ -1,11 +1,11 @@
 
 £
-java:S1192"[Define a constant instead of duplicating this literal "Predicate and result is : " 3 times.(òŒ‹øûÿÿÿÿ8ÞâÞþ§2J$ccbc3030-a5a8-4ba0-806e-feb3be0ba72f
+java:S1192"[Define a constant instead of duplicating this literal "Predicate and result is : " 3 times.(òŒ‹øûÿÿÿÿ8ÞâÞþ§2J$768d5fc7-00c8-4c1c-9f2e-515e7e43028c
 š
-java:S4276	"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(þú°¥ýÿÿÿÿ8ÛÓëþ§2J$58882609-6d1e-4eb5-9705-f411cbf31580
-r	java:S106"+Replace this use of System.out by a logger.(òŒ‹øûÿÿÿÿ8‡£õý§2J$c2ef490a-b875-4886-a058-4c92fe55d3ee
-r	java:S106"+Replace this use of System.out by a logger.(‹õìÐüÿÿÿÿ8ˆ£õý§2J$854cf551-75c1-44e6-90c7-42bf1ad85010
-r	java:S106"+Replace this use of System.out by a logger.(“Ðµ­ÿÿÿÿÿ8Øž×þ§2J$39d44b1d-8be7-4b19-8ce4-ea6c634e696f
-r	java:S106"+Replace this use of System.out by a logger.(êÃ”ûøÿÿÿÿ8ÕÐÜþ§2J$97a8433b-61b4-48f5-8b02-511a2e96808e
-l	java:S106"+Replace this use of System.out by a logger.(ÄÊÐ>8ÕÐÜþ§2J$c9116443-9d38-4d76-bd82-c318a101e6c5
-m	java:S106"+Replace this use of System.out by a logger.(™€Éó8ŠÈåþ§2J$903ee3f9-7f7f-49d4-80f1-2854b8f2efa6
+java:S4276	"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(þú°¥ýÿÿÿÿ8ÛÓëþ§2J$b5630d9a-0708-4d6a-be03-e550ad7e593d
+r	java:S106"+Replace this use of System.out by a logger.(òŒ‹øûÿÿÿÿ8‡£õý§2J$1569a6f7-afe5-4947-9ebf-0c0133b8c73f
+r	java:S106"+Replace this use of System.out by a logger.(‹õìÐüÿÿÿÿ8ˆ£õý§2J$b1d36343-72d5-4a2a-9bae-47057d71746f
+r	java:S106"+Replace this use of System.out by a logger.(“Ðµ­ÿÿÿÿÿ8Øž×þ§2J$fb9b1c1b-88e5-4409-abf8-d89781ab67b0
+r	java:S106"+Replace this use of System.out by a logger.(êÃ”ûøÿÿÿÿ8ÕÐÜþ§2J$44376c24-7817-4f6c-b33b-52356bdbc27f
+l	java:S106"+Replace this use of System.out by a logger.(ÄÊÐ>8ÕÐÜþ§2J$1fd9e996-3b74-4d5f-80ca-44786ff53b74
+m	java:S106"+Replace this use of System.out by a logger.(™€Éó8ŠÈåþ§2J$a1263887-bf33-4672-9740-7f722d776067

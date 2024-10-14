@@ -37,3 +37,5 @@ b
 2src/functionalInterfaces/UnaryOperatorExample.java,3/b/3b58b53bc5ae40e683720e02bfb889bf3f2adf87
 c
 3src/functionalInterfaces/BinaryOperatorExample.java,d/0/d073bdaa652c4c5f567258da879f601b4616d21a
+]
+-src/functionalInterfaces/SupplierExample.java,5/4/54a372a42f726bfcfc673d3c86835baf19749656
